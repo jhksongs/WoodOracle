@@ -1,0 +1,13 @@
+A. there has been four commits
+B. it says nothing has been added
+C. Git log -- "2022 6 1"
+D. Four changes (used git log)
+E. One add on Date:   Mon Sep 19 17:17:29 2022 -0500(git log -- REMOVE.txt)
+F. Get log lets you explore previous revisions and displays commits; git status displays the working directory current state
+G. Its intended for creating release announcements, groups each commit by author
+H. git log -- main.java
+I. git log -- main.java --stat -p
+J. git log -S"Transactions"
+K. git log -- author"(enter name here)" 
+L. git log -- author="Lauren" -- after="2015 1 5"  -- before="2015 6 14"
+ 
